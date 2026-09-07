@@ -5,13 +5,13 @@ about:
   head: 17c751e
   archived: false
   latestVersion: "v0.5.3"
-  collectedAt: 2026-09-07T05:32:06Z
+  collectedAt: 2026-09-07T18:59:29Z
 timeline:
   created: 2015-02-23
   lastCommit: 2022-01-21
   lastRelease: 2018-04-24
 popularity:
-  star: 2513
+  star: 2514
   watcher: 61
   fork: 184
   release: 12
@@ -82,7 +82,7 @@ total:
   commit: 267
 ---
 path: /home/runner/.x-repo/github.com/pressly/sup
-collectedAt: 2026-09-07T05:32:11Z
+collectedAt: 2026-09-07T18:59:30Z
 loc:
   Go:
     code: 1324
@@ -214,7 +214,7 @@ checks:
       - 'Warn: 0 commits out of 29 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:32:13+00:00
+  collectedAt: 2026-09-07T18:59:30+00:00
   platform:
     darwin/arm64:
       name:  null
