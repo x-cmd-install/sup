@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5167569,
       "digest": null,
-      "download_count": 87,
+      "download_count": 88,
       "created_at": "2018-04-24T17:53:19Z",
       "updated_at": "2018-04-24T17:53:22Z",
       "browser_download_url": "https://github.com/pressly/sup/releases/download/v0.5.3/sup-linux386"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5889057,
       "digest": null,
-      "download_count": 4402,
+      "download_count": 4404,
       "created_at": "2018-04-24T17:53:19Z",
       "updated_at": "2018-04-24T17:53:21Z",
       "browser_download_url": "https://github.com/pressly/sup/releases/download/v0.5.3/sup-linux64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5053952,
       "digest": null,
-      "download_count": 47,
+      "download_count": 48,
       "created_at": "2018-04-24T17:53:20Z",
       "updated_at": "2018-04-24T17:53:24Z",
       "browser_download_url": "https://github.com/pressly/sup/releases/download/v0.5.3/sup-windows386.exe"
